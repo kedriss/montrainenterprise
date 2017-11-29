@@ -1,0 +1,8 @@
+{
+  "name": "montrainenterprise",
+  "app_id": "d2a1d125",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
